@@ -1,0 +1,23 @@
+{
+  "concursos": [
+    {
+      "id": "80",
+      "regiao_id": "PR",
+      "num_serie": "80",
+      "faixa_inicial": "",
+      "faixa_final": "",
+      "vl_numero": "",
+
+      "tipo_concurso": {
+        "id": "80",
+        "descricao": "Bolao de Sabado",
+        "desativado": "false"
+      },
+      "tipo_apuracao": {
+        "id": "80",
+        "descricao": "Bolao de Dezenas",
+        "desativado": "false"
+      }
+    }
+  ]
+}
