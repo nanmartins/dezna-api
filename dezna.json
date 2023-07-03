@@ -7,7 +7,11 @@
       "faixa_inicial": "",
       "faixa_final": "",
       "vl_numero": "",
-
+      "dt_inicio": "",
+      "hr_inicio": "",
+      "dt_final": "",
+      "hr_final": "",
+      "inclusion_date": "",
       "tipo_concurso": {
         "id": "80",
         "descricao": "Bolao de Sabado",
