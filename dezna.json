@@ -4,8 +4,8 @@
       "id": "80",
       "regiao_id": "PR",
       "num_serie": "80",
-      "faixa_inicial": "",
-      "faixa_final": "",
+      "faixa_inicial": "0",
+      "faixa_final": "10",
       "vl_numero": "",
 
       "tipo_concurso": {
