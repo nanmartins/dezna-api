@@ -8,8 +8,8 @@
       "faixa_final": "10",
       "vl_numero": "",
       "dt_inicio": "",
-      "hr_inicio": "",
-      "dt_final": "1/7/2023",
+      "hr_inicio": "19:00:00",
+      "dt_final": "01/07/2023",
       "hr_final": "19:00:00",
       "inclusion_date": "",
       "desativado": "true",
@@ -22,6 +22,43 @@
         "id": "80",
         "descricao": "Bolao de Dezenas",
         "desativado": "false"
+      },
+      "bolao": {
+        "bolao_10": {
+          "id": "10_dezenas",
+          "tipo_bolao": "10 Dezenas",
+          "premio_bolao": "170000",
+          "descricao": "Ganha ao acertar 10 dezenas",
+          "finalizado": "false",
+          "status": "Premio Acumulado"
+        },
+
+        "bolao_9": {
+          "id": "9_dezenas",
+          "tipo_bolao": "9 Dezenas",
+          "premio_bolao": "12000",
+          "descricao": "Ganha ao acertar 9 dezenas",
+          "finalizado": "true",
+          "status": "9"
+        },
+
+        "bolao_8": {
+          "id": "8_dezenas",
+          "tipo_bolao": "8 Dezenas",
+          "premio_bolao": "10000",
+          "descricao": "Ganha ao acertar 8 dezenas",
+          "finalizado": "true",
+          "status": "103"
+        },
+
+        "bolao_0": {
+          "id": "0_dezenas",
+          "tipo_bolao": "0 Pontos",
+          "premio_bolao": "5000",
+          "descricao": "Ganha quem ficar com 0 acerto",
+          "finalizado": "true",
+          "status": "152"
+        }
       }
     }
   ]
