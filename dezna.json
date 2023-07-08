@@ -23,9 +23,9 @@
         "descricao": "Bolao de Dezenas",
         "desativado": "false"
       },
-      "bolao": {
-        "bolao_10": {
-          "id": "10_dezenas",
+      "bolao": [
+        {
+          "id": "01",
           "tipo_bolao": "10 Dezenas",
           "premio_bolao": "170000",
           "descricao": "Ganha ao acertar 10 dezenas",
@@ -33,8 +33,8 @@
           "status": "Premio Acumulado para o próximo concurso"
         },
 
-        "bolao_9": {
-          "id": "9_dezenas",
+        {
+          "id": "02",
           "tipo_bolao": "9 Dezenas",
           "premio_bolao": "12000",
           "descricao": "Ganha ao acertar 9 dezenas",
@@ -42,8 +42,8 @@
           "status": "9"
         },
 
-        "bolao_8": {
-          "id": "8_dezenas",
+        {
+          "id": "03",
           "tipo_bolao": "8 Dezenas",
           "premio_bolao": "10000",
           "descricao": "Ganha ao acertar 8 dezenas",
@@ -51,15 +51,134 @@
           "status": "103"
         },
 
-        "bolao_0": {
-          "id": "0_dezenas",
+        {
+          "id": "04",
+          "tipo_bolao": "0 Pontos",
+          "premio_bolao": "5000",
+          "descricao": "Ganha quem ficar com 0 acerto",
+          "finalizado": "true",
+          "status": "152"
+        },
+
+        {
+          "id": "05",
           "tipo_bolao": "0 Pontos",
           "premio_bolao": "5000",
           "descricao": "Ganha quem ficar com 0 acerto",
           "finalizado": "true",
           "status": "152"
         }
-      }
+      ]
+    }
+  ],
+  "resultados": [
+    {
+      "id": "01",
+      "descricao": "Resultado Concurso",
+      "regiao_id": "PR",
+      "dt_apuracao": "01/07/2023",
+      "hr_apuracao": "19:14:00",
+      "ranking": {
+        "1º": "17.54",
+        "2º": "42.33",
+        "3º": "01.86",
+        "4º": "27.44",
+        "5º": "59.71",
+        "6º": "34.53"
+      },
+      "num_sorteados": ["2", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
+      "num_ordem": "Ordem Crescente"
+    },
+
+    {
+      "id": "02",
+      "descricao": "Resultado Concurso",
+      "regiao_id": "PR",
+      "dt_apuracao": "01/07/2023",
+      "hr_apuracao": "19:14:00",
+      "ranking": {
+        "1º": "17.54",
+        "2º": "42.33",
+        "3º": "01.86",
+        "4º": "27.44",
+        "5º": "59.71",
+        "6º": "34.53"
+      },
+      "num_sorteados": ["2", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
+      "num_ordem": "Ordem Crescente"
+    },
+
+    {
+      "id": "03",
+      "descricao": "Resultado Concurso",
+      "regiao_id": "PR",
+      "dt_apuracao": "01/07/2023",
+      "hr_apuracao": "19:14:00",
+      "ranking": {
+        "1º": "17.54",
+        "2º": "42.33",
+        "3º": "01.86",
+        "4º": "27.44",
+        "5º": "59.71",
+        "6º": "34.53"
+      },
+      "num_sorteados": ["2", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
+      "num_ordem": "Ordem Crescente"
+    },
+
+    {
+      "id": "04",
+      "descricao": "Resultado Concurso",
+      "regiao_id": "PR",
+      "dt_apuracao": "01/07/2023",
+      "hr_apuracao": "19:14:00",
+      "ranking": {
+        "1º": "17.54",
+        "2º": "42.33",
+        "3º": "01.86",
+        "4º": "27.44",
+        "5º": "59.71",
+        "6º": "34.53"
+      },
+      "num_sorteados": ["2", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
+      "num_ordem": "Ordem Crescente"
+    },
+
+    {
+      "id": "05",
+      "descricao": "Resultado Concurso",
+      "regiao_id": "PR",
+      "dt_apuracao": "01/07/2023",
+      "hr_apuracao": "19:14:00",
+      "ranking": {
+        "1º": "17.54",
+        "2º": "42.33",
+        "3º": "01.86",
+        "4º": "27.44",
+        "5º": "59.71",
+        "6º": "34.53"
+      },
+      "num_sorteados": ["2", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
+      "num_ordem": "Ordem Crescente"
+    },
+
+    {
+      "id": "06",
+      "descricao": "Resultado Concurso",
+      "regiao_id": "PR",
+      "dt_apuracao": "01/07/2023",
+      "hr_apuracao": "19:14:00",
+      "ranking": {
+        "1º": "17.54",
+        "2º": "42.33",
+        "3º": "01.86",
+        "4º": "27.44",
+        "5º": "59.71",
+        "6º": "34.53"
+      },
+      "num_sorteados": ["2", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
+      "num_ordem": "Ordem Crescente"
     }
   ]
+
 }
