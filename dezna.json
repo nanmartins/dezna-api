@@ -185,6 +185,23 @@
       "num_sorteados": ["02", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
       "num_ordem": "Ordem Crescente"
     }
+  ],
+
+  "filtros": [
+    {
+      "id": "001",
+      "num_sorteados": ["02", "13", "14", "19", "23", "29", "45", "62", "77", "98"],
+      "apostadores": [
+        {
+          "id": "0001",
+          "nome": "Fulano G. Silva",
+          "num_pule": "5554433",
+          "cidade": "Cianorte - PR",
+          "num_apostado": ["05", "07", "13", "19", "21", "26", "38", "42", "63", "88"]
+        }
+      ]
+
+    }
   ]
 
 }
